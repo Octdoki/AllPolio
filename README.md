@@ -1,8 +1,7 @@
 # AllPolio 홈페이지 제작
 
-[<a href="[깃/dist/](https://octdoki.github.io/AllPolio/dist)" target="_blank">](https://octdoki.github.io/AllPolio/dist)
-<img src="public/images/logo.svg" width="150px">
-</a>
+Demo Link : https://octdoki.github.io/AllPolio/dist
+
 
 <br>
 <br>
