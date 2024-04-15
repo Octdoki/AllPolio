@@ -35,7 +35,7 @@ Demo Link : https://octdoki.github.io/AllPolio/dist
 
 2. 기획서 및 와이어프레임,스토리보드 제작
 
-<img width="280" alt="image" src="https://github.com/Octdoki/AllPolio/assets/76845650/3286f8dd-762a-4113-ae8f-f1e610165ee1">
+<img width="300" alt="image" src="https://github.com/Octdoki/AllPolio/assets/76845650/3286f8dd-762a-4113-ae8f-f1e610165ee1">
 
 3.컴포넌트 구성 및 분리 
 
