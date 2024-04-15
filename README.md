@@ -29,6 +29,21 @@ Demo Link : https://octdoki.github.io/AllPolio/dist
 5. 마이페이지 포트폴리오 등록 / 수정 구현
 6. 로그인 / 로그아웃 기능 구현
 
+# 프로젝트 기획/제작 과정 
+
+1. 요구사항 명세서 작성
+
+2. 기획서 및 와이어프레임,스토리보드 제작
+
+<img width="280" alt="image" src="https://github.com/Octdoki/AllPolio/assets/76845650/3286f8dd-762a-4113-ae8f-f1e610165ee1">
+
+3.컴포넌트 구성 및 분리 
+
+4.플로우차트 및 스케쥴링표 작성 
+
+![image](https://github.com/Octdoki/AllPolio/assets/76845650/ffa36e78-0935-406b-8bb4-7b0f9f3befaf)
+
+
 # 프로젝트 기능 구현
 
 ### 1) 메인 카테고리 분류 및 검색
